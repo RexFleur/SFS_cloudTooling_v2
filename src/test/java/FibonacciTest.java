@@ -16,7 +16,7 @@ public class FibonacciTest {
 	
 	@Test
 	public void testGetMessage() {
-		assertEquals("4613732", subject.getMessage(false));
+		assertEquals("4613732", subject.sumOfEvens());
 	}
 	
 }
