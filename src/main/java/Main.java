@@ -1,4 +1,5 @@
 // Rex Fleur 18/05/2016
+package com.company;
 
 public class Main {
 
