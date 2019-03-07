@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e475dfd-b9a7-4a3e-a32d-3e95666df772" name="Default Changelist" comment="" />
+    <list default="true" id="6e475dfd-b9a7-4a3e-a32d-3e95666df772" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.Euler.TestFibonacci.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.Euler.TestFibonacci.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,33 +41,33 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="313" />
-          <entry key="txt" value="64" />
-          <entry key="xml" value="54" />
-          <entry key="yml" value="14" />
+          <entry key="txt" value="106" />
+          <entry key="xml" value="85" />
+          <entry key="yml" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="313" />
-          <entry key="PLAIN_TEXT" value="64" />
-          <entry key="XML" value="54" />
-          <entry key="YAML" value="14" />
+          <entry key="PLAIN_TEXT" value="106" />
+          <entry key="XML" value="85" />
+          <entry key="YAML" value="25" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="322">
+              <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/Euler/TestFibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -116,8 +120,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -140,11 +144,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/src/test/java/UnitTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/unitTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestFibbonacci.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestFibonacci.java" />
@@ -153,6 +155,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/Euler/FiveAndThree.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/Euler/TestFibonacci.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/Euler/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -240,7 +244,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551958022033" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551960853635" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LAG_wk1" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -275,7 +279,7 @@
       <updated>1551873889368</updated>
       <workItem from="1551873890675" duration="5262000" />
       <workItem from="1551949538398" duration="1128000" />
-      <workItem from="1551950696077" duration="2298000" />
+      <workItem from="1551950696077" duration="4805000" />
     </task>
     <task id="LOCAL-00001" summary="remove gradle">
       <created>1551874074577</created>
@@ -333,11 +337,46 @@
       <option name="project" value="LOCAL" />
       <updated>1551955114287</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fixed unit test">
+      <created>1551958033712</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1551958033713</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixed unit test">
+      <created>1551958046550</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1551958046550</updated>
+    </task>
+    <task id="LOCAL-00011" summary="codecov travis">
+      <created>1551958578098</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1551958578098</updated>
+    </task>
+    <task id="LOCAL-00012" summary="codecov travis">
+      <created>1551958910423</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1551958910423</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add test source directory">
+      <created>1551960093346</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1551960093346</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8688000" />
+    <option name="totallyTimeSpent" value="11195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -387,7 +426,9 @@
     <MESSAGE value="Fixed pom.xml" />
     <MESSAGE value="add unit test" />
     <MESSAGE value="fixed unit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed unit test" />
+    <MESSAGE value="codecov travis" />
+    <MESSAGE value="add test source directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test source directory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -429,24 +470,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Euler/PrimeFactorization.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -480,6 +507,20 @@
             <element signature="e#163#164#0" expanded="true" />
             <element signature="e#222#223#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
         </state>
       </provider>
     </entry>
