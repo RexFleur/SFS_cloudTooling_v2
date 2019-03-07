@@ -240,7 +240,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551955383921" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551955498550" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LAG_wk1" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -275,7 +275,7 @@
       <updated>1551873889368</updated>
       <workItem from="1551873890675" duration="5262000" />
       <workItem from="1551949538398" duration="1128000" />
-      <workItem from="1551950696077" duration="1538000" />
+      <workItem from="1551950696077" duration="2298000" />
     </task>
     <task id="LOCAL-00001" summary="remove gradle">
       <created>1551874074577</created>
@@ -337,11 +337,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7928000" />
+    <option name="totallyTimeSpent" value="8688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12379936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
